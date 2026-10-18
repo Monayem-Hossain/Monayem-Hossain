@@ -3,7 +3,7 @@
  
 <img align="center" alt="line" src="https://raw.githubusercontent.com/Devil-King-Monayem/Monayem/a0c3daeb874542331711cb5885570dc107305aa3/line-1.svg">
  
-<h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
+<h3 align="center">A Passionate Developer From Bangladesh</h3>
  
 <img align="center" alt="line" src="https://raw.githubusercontent.com/Devil-King-Monayem/Monayem/a0c3daeb874542331711cb5885570dc107305aa3/line-2.svg">
  
